@@ -108,5 +108,4 @@ for button in buttons:
 # Run the application
 root.mainloop()
 
-![Calculator Screenshot](https://github.com/aditya91203/Calculator/blob/master/calci.png?raw=true)
 
