@@ -108,4 +108,4 @@ for button in buttons:
 # Run the application
 root.mainloop()
 
-![calci](https://github.com/user-attachments/assets/d6d6c63a-e33f-4c6d-a0f9-1feb292a950d)
+![calci](https://github.com/user-attachments/assets/6d87e4ac-b152-4956-83f7-b5610f2418ec)
